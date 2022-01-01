@@ -1,0 +1,7 @@
+beacon.defense
+beacon.defense.tooltip
+beacon.power
+beacon.power.tooltip
+beacon.wealth
+beacon.wealth.boost
+beacon.wealth.tooltip

@@ -1,0 +1,6 @@
+building.consturctionfirm
+building.factory
+building.laboratory
+building.mine
+building.museum
+building.powerplant
