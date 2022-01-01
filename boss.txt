@@ -11,7 +11,6 @@ boss.4.preview
 boss.cubosjr.controls
 boss.cubosjr.description
 boss.cubosjr.name
-boss.cylinder
 boss.cylinder.controls
 boss.cylinder.description
 boss.cylinder.name
